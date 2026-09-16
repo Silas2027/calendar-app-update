@@ -1,0 +1,6 @@
+{
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/Silas2027/calendar-app-update/releases/download/v1.5.0/calendar-app-v1.5.apk",
+  "changelog": "1. 新增：App 内直接下载并安装新版本\n2. 底部导航栏固定，不再跳动\n3. 优化页面滚动体验"
+}
