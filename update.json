@@ -1,1 +1,1 @@
-{"versionCode": 11, "versionName": "1.9", "apkUrl": "https://github.com/Silas2027/calendar-app-update/releases/download/v1.9.1/calendar-app-v1.9.apk", "changelog": "更新与推送渠道已收归为官方唯一源；全部安卓原生实现"}
+{"versionCode":12,"versionName":"2.0","apkUrl":"https://github.com/Silas2027/calendar-app-update/releases/download/v2.0.0/calendar-app-v2.0.apk","changelog":"新增 ima 云端备份/恢复：注册账号获取账号ID，日历与提醒一键备份到云端，重装后凭账号ID+密码恢复"}
