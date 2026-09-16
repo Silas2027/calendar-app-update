@@ -1,6 +1,1 @@
-{
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/Silas2027/calendar-app-update/releases/download/v1.6.0/calendar-app-v1.6.apk",
-  "changelog": "1. 默认使用 GitHub 更新源，开箱即用\n2. App 内直接下载并安装新版本\n3. 底部导航栏固定"
-}
+{"versionCode": 11, "versionName": "1.9", "apkUrl": "https://github.com/Silas2027/calendar-app-update/releases/download/v1.9.1/calendar-app-v1.9.apk", "changelog": "更新与推送渠道已收归为官方唯一源；全部安卓原生实现"}
